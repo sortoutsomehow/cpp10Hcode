@@ -51,5 +51,5 @@ int main(){
     bool ali = true;
     cout <<ali<<'\n';
     cout<<std::boolalpha<<ali<<'\n';//usign this method you can get the literal value of boolians
-    
+    //this is a comment
 }
